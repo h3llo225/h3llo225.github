@@ -5,7 +5,6 @@ padding-top: 10px; padding-bottom: 10px; position:fixed; top:0; left: 0; right: 
 .paragraph-text{text-align: center !important;
 padding-top: 10px; padding-bottom: 10px; }
 .centered-class{text-align: center}
-.whole-page{background:#0a0a0a}
 .pad-top{padding-top: 30px;}
 .spacer{padding-top: 20px;}
 .footer-bar{text-align: center !important; background: #001f1a;
@@ -21,5 +20,6 @@ bottom: 0; display: flex; position: fixed; left: 0; right: 0;}
     border:2px;
     padding: 10px; 
     background-color: #0d1f1a;
-    border-radius: 5px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px 3px background: #001f1a;
 }
