@@ -1,7 +1,7 @@
 
 
 <link rel="stylesheet" href="assets/css/custom.css" /> 
-<div class="whole-page">
+<div>
 <header class = "header-bar">
     My Personal Site
 </header>
