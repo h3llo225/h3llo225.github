@@ -1,1 +1,25 @@
 
+.header-bar{text-align: center !important; background: #001f1a;
+padding-top: 10px; padding-bottom: 10px; position:fixed; top:0; left: 0; right: 0; z-index: 99;}
+
+.paragraph-text{text-align: center !important;
+padding-top: 10px; padding-bottom: 10px; }
+.centered-class{text-align: center}
+.whole-page{background:#0a0a0a}
+.pad-top{padding-top: 30px;}
+.spacer{padding-top: 20px;}
+.footer-bar{text-align: center !important; background: #001f1a;
+padding-top: 10px; gap: 20px; justify-content: center;
+bottom: 0; display: flex; position: fixed; left: 0; right: 0;}
+
+.centered-image{
+    margin: auto;
+    display:block;
+}
+
+.text-box{
+    border:2px;
+    padding: 10px; 
+    background-color: #0d1f1a;
+    border-radius: 5px;
+}
